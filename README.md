@@ -1,11 +1,11 @@
-# react-landing-page
+# React Landing Page
 
 <img src="https://github.com/eamre/react-landing-page/blob/main/src/assets/ph1.PNG" width="700" height="500" />
 <img src="https://github.com/eamre/react-landing-page/blob/main/src/assets/ph2.PNG" width="700" height="620" />
 <img src="https://github.com/eamre/react-landing-page/blob/main/src/assets/ph3.PNG" width="700" height="620" />
 <img src="https://github.com/eamre/react-landing-page/blob/main/src/assets/ph4.PNG" width="700" height="320" />
 
-# Vite ⚡
+## Vite ⚡
 
 > Next Generation Frontend Tooling
 
